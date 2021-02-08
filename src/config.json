@@ -2,5 +2,9 @@
   "requestPath": "/http/controllers",
   "folderPath": "/home/mauricio-henrique/workspace/IUPP/banner-service/src",
   "schemaPath": "/http/schemas",
-  "excludeFiles": ["controller.ts"]
+  "excludeFiles": [
+    "controller.ts"
+  ],
+  "openapiPath": "openapi",
+  "collectionPath": "collection"
 }
